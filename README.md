@@ -12,3 +12,5 @@ C,　C++,　C#,　Python,　Java,　JavaScript,　HTML,　CSS,　SQL,　Linux
 チャットボットURL : https://lin.ee/eLUW13M 
 
 デモ動画 : https://youtube.com/shorts/itGCZRDBUdc?si=w305W1QOkIyVnZD3
+
+VRシューティングゲーム : https://github.com/haruru8/KATVR_Gun_Game
