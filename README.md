@@ -4,7 +4,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=haruru8&show_icons=true&locale=en&layout=compact)
 
 ## 使用したことのある言語
-C,C++,C#,Python,Java,JavaScript,HTML,CSS,SQL,Linux
+C,　C++,　C#,　Python,　Java,　JavaScript,　HTML,　CSS,　SQL,　Linux
 
 ## 制作物
 
