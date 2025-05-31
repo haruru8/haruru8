@@ -3,11 +3,8 @@
 ## ステータス
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=haruru8&layout=compact&langs_count=10&hide=html,css,javascript)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=haruru8&show_icons=true&locale=en&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruru8&hide=HLSL,ShaderLab" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetsuzawa&hide=jupyter%20notebook,shaderlab,tex,c%23&langs_count=9" />
 
 
 ## 使用したことのある言語
