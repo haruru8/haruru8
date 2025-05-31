@@ -5,6 +5,9 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruru8" />
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetsuzawa&hide=jupyter%20notebook,shaderlab,tex,c%23&langs_count=9" />
+
+
 ## 使用したことのある言語
 C,　C++,　C#,　Python,　Java,　JavaScript,　HTML,　CSS,　SQL,　Linux
 
