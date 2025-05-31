@@ -3,7 +3,7 @@
 ## ステータス
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=haruru8&show_icons=true&locale=en&layout=compact)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruru8" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruru8&hide=HLSL,ShaderLab" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetsuzawa&hide=jupyter%20notebook,shaderlab,tex,c%23&langs_count=9" />
 
