@@ -15,4 +15,4 @@ C,　C++,　C#,　Python,　Java,　JavaScript,　HTML,　CSS,　SQL,　Linux
 
 VRシューティングゲーム : https://github.com/haruru8/KATVR_Gun_Game
 
-卒業研究　点群データに基づく遺伝的アルゴリズムを用いた家具配置最適化 : https://github.com/haruru8/soturon-code
+卒業研究　点群データに基づく遺伝的アルゴリズムを用いた家具配置最適化 : [https://github.com/haruru8/soturon-code](https://github.com/haruru8/code_-soturon)
