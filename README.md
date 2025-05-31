@@ -1,7 +1,6 @@
 # プロフィール
 
 ## ステータス
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=haruru8&layout=compact&langs_count=10&hide=html,css,javascript)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruru8&layout=compact&hide=Mathematica,HLSL,Shell,Batchfile,ShaderLab)
 
