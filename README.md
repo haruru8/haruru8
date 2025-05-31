@@ -14,3 +14,5 @@ C,　C++,　C#,　Python,　Java,　JavaScript,　HTML,　CSS,　SQL,　Linux
 デモ動画 : https://youtube.com/shorts/itGCZRDBUdc?si=w305W1QOkIyVnZD3
 
 VRシューティングゲーム : https://github.com/haruru8/KATVR_Gun_Game
+
+卒業研究　点群データに基づく遺伝的アルゴリズムを用いた家具配置最適化 : https://github.com/haruru8/soturon-code
