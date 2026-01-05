@@ -11,10 +11,10 @@ C,　C++,　C#,　Python,　Java,　JavaScript,　HTML,　CSS,　SQL,　Linux
 
 ## 制作物
 
-### スロット収支記録チャットボット　
-チャットボットURL : https://lin.ee/eLUW13M 
+### お金の貸し借り管理チャットボット　
+チャットボットURL : https://lin.ee/H8oRCfC9
 
-デモ動画 : https://youtube.com/shorts/itGCZRDBUdc?si=w305W1QOkIyVnZD3
+デモ動画 : https://youtube.com/shorts/Zai6lyON60M?si=Gnx5AB_PCOuFVv7y
 
 ### その他　
 VRシューティングゲーム : https://github.com/haruru8/KATVR_Gun_Game
